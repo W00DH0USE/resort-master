@@ -74,6 +74,10 @@ h6 {
   text-align: center;
   margin-top: 3rem;
 }
+.loading img {
+  height: 50px;
+  width: auto;
+}
 .error {
   text-align: center;
   text-transform: uppercase;
